@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143348645265",
+    "project_id": "kepsfret-c26e8",
+    "storage_bucket": "kepsfret-c26e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143348645265:android:a1cdd073a818e63d06ee30",
+        "android_client_info": {
+          "package_name": "com.kepsfret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143348645265-uvfugcf89u5pn4b0l2a1dm1k81vlujes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2BfpiE7nyGsLmmY1KUNeJOg8UiuTqV6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143348645265-uvfugcf89u5pn4b0l2a1dm1k81vlujes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
